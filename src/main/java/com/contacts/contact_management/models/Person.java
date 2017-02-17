@@ -12,7 +12,7 @@ import javax.persistence.Entity;
 import com.contacts.contact_management.enums.Gender;
 
 /**
- * @author JavaTraining
+ * @author Sandeep
  *
  */
 @Entity(name = "PERSON")

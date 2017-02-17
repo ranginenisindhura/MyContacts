@@ -4,7 +4,7 @@
 package com.contacts.contact_management.enums;
 
 /**
- * @author JavaTraining
+ * @author Sandeep
  */
 public enum Gender {
 
