@@ -10,7 +10,7 @@ public enum Gender {
 
 	Male("male"), Female("female");
 
-	private String gender;
+	private final String gender;
 
 	private Gender(String gender) {
 		this.gender = gender;
